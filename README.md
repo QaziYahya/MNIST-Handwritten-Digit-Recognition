@@ -10,6 +10,6 @@ The implemented neural network is a dense neural network has a total of 5 layers
 ![Screenshot from 2022-11-05 20-53-16](https://user-images.githubusercontent.com/74414105/200128573-db5175d1-c2c1-45c6-827a-95729feebd4b.png)
 
 <h2>Results:</h2>
-After getting trained on a total of 60,000 images, a batch size of 32 and 30 epochs the model achieved an accuracy of 98%. Accuracy on the testing set was 97%. The model did not seem to overfit the traning data. Following is a snapshot of a number of predictions made by the model:
+After getting trained on a total of 60,000 images, a batch size of 32 and 30 epochs the model achieved an accuracy of 98.37%. Accuracy on the testing set was 97.74%. The model did not seem to overfit the traning data. Following is a snapshot of a number of predictions made by the model:
 
 ![Screenshot from 2022-11-03 21-08-42](https://user-images.githubusercontent.com/74414105/200129006-cb7219a4-18f6-4a9a-8a57-b2d4783883ae.png)
